@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/nfdykes/nfdykes.github.io/sitemap.xml
+Sitemap: https://github.com/nfdykes.github.io/sitemap.xml
