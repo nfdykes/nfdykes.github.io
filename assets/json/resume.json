@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nathan Dykes",
+    "label": "Research associate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nathan.dykes@fau.de",
+#    "phone": "(912) 123-4567",
+    "url": "nfdykes.github.io",
+    "summary": "Digital linguist & discourse analyst with a background in computational linguistics and Scandinavian studies",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Nürnberger Str. 74",
+      "postalCode": "91025",
+      "city": "Erlangen",
+      "countryCode": "Germany"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Bluesky",
+        "username": "nfdykes",
+        "url": "https://bsky.app/profile/nfdykes.bsky.social"
       }
     ]
   },
