@@ -37,9 +37,11 @@ CADSbib is the basis for the survey on the development of CADS that was conducte
 
 
 CADSbib is especially useful for students and researchers interested in:
+
 📈 **Trend mapping**
 - examine combinations of methods and year to track how keyness or concordance analysis have risen or declined over time.
 - spot methodological preferences in certain domains: are certain domains more associated with newer methods than others?
+
 📍 **Geographic and domain amplification**
    - filter by region to find highlight voices from under-represented areas (e.g. African researchers)
    - combine with a domain filter to make your search more targeted (e.g. social media discourse conducted by researchers from Honk Kong)
