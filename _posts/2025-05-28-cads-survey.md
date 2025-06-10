@@ -29,42 +29,46 @@ CADSbib is an annotated bibliography comprising corpus-based studies on discours
 
 In contrast to general bibliographic databases, CADSbib is manually curated for research relevant to corpus work on discourse. This is particularly useful considering the broad usage of the term *discourse*, which can make it difficult to find relevant work.
 
-The main contribution of CADSbib is that it contains detailed information on each reference including metadata, software, target language and corpus methods. This opens up usage applications across a wide range of  areas.
+The main contribution of CADSbib is that it contains detailed information on each reference including metadata, software, target language and corpus methods. This opens up usage applications across a wide range of areas.
 
 CADSbib is the basis for the survey on the development of CADS that was conducted as part of my PhD work. Stay tuned for its publication to read my account of how the field has developed over the last three decades!
 
 ### Applications
 
-
 CADSbib is especially useful for students and researchers interested in:
 
 📈 **Trend mapping**
 - examine combinations of methods and year to track how keyness or concordance analysis have risen or declined over time.
-- spot methodological preferences in certain domains: are certain domains more associated with newer methods than others?
+- spot methodological preferences in certain domains: is social media research more associated with newer methods than news discourse analysis?
 
 📍 **Geographic and domain amplification**
-   - filter by region to find highlight voices from under-represented areas (e.g. African researchers)
-   - combine with a domain filter to make your search more targeted (e.g. social media discourse conducted by researchers from Honk Kong)
+   - filter by region to highlight voices from under-represented areas (e.g. African researchers)
+   - combine with a domain filter for a more targeted search (e.g. social media discourse conducted by researchers from Honk Kong)
    
 📝 **Cross- and intra-domain comparisons**
    - filter for studies using similar methods on different domains
-   - extract studies on the same domain and year to compare their methods
+   - extract studies from the same domain and year and compare their methods
 
 🎓 **Pedagogical applications**
    - teach methodology through examples
    - build annotated reading lists for your coursework
-   - find studies using a publicly accessible corpus to identify transparent examples
+   - find studies using a publicly accessible corpus to identify examples that students can reproduce
    - identify research using a custom corpus for a particular domain to showcase how researchers build e.g. corpora for health discourse
 	
 💭 **Methodological reflexivity**
    - analyse which methods are overused or absent
+   - have quantitative methods increased over time? If so, what does that mean for the field?
 	
 💻 **Interface with other tools**
-   - CSV file to filter in a spreadsheet tool
+   - download the CSV file to filter in a spreadsheet tool
    - import the file using R or Python to conduct your own analyses
    - download the .bib file to import the references in a citation manager
+   
+### Get involved
+I aim to update CADSbib on a semi-regular basis. To make this possible, I will need support from the CADS community:
+Get in touch via Bluesky or email to contribute to CADSbib with references, annotations or corrections.
 
-### Structure of CADSbib
+### Structure
 The references are annotated with the following types of information:
 
 #### Metadata
@@ -112,7 +116,4 @@ The references are annotated with the following types of information:
 Find the full [csv](https://osf.io/pgsrv?view_only=fe0899ce01c64bbf87dae83e82dece18) table on OSF.
 
 
-To access the references in a citation-friendly manner, I also provide a [bib file](https://osf.io/yke9n?view_only=fe0899ce01c64bbf87dae83e82dece18") on OSF. _Please note:_ the bib file was auto-generated and contains errors.
-
-### Get involved in CADSbib
-If you'd like to contribute to CADSbib with references, annotations or corrections, please do get in touch with me!
+To access the references in a citation-friendly manner, I also provide a [bib file](https://osf.io/yke9n?view_only=fe0899ce01c64bbf87dae83e82dece18") on OSF. _Please note:_ the bib file was auto-generated from free-text input and contains some errors. If you see something that needs correcting, please let me know.
