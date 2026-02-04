@@ -31,35 +31,35 @@ In contrast to general bibliographic databases, CADSbib is manually curated for 
 
 The main contribution of CADSbib is that it contains detailed information on each reference including metadata, software, target language and corpus methods. This opens up usage applications across a wide range of areas.
 
-CADSbib is the basis for the survey on the development of CADS that was conducted as part of my PhD work. Stay tuned for its publication to read my account of how the field has developed over the last three decades!
+CADSbib is the basis for the survey on the development of CADS that was conducted as part of my PhD work. A publication of an updated version is being prepared.
 
 ### Applications
 
 CADSbib is especially useful for students and researchers interested in:
 
-📈 **Trend mapping**
+1. **Trend mapping**
 - examine combinations of methods and year to track how keyness or concordance analysis have risen or declined over time.
 - spot methodological preferences in certain domains: is social media research more associated with newer methods than news discourse analysis?
 
-📍 **Geographic and domain amplification**
+2. **Geographic and domain amplification**
    - filter by region to highlight voices from under-represented areas (e.g. African researchers)
    - combine with a domain filter for a more targeted search (e.g. social media discourse conducted by researchers from Honk Kong)
    
-📝 **Cross- and intra-domain comparisons**
+3. **Cross- and intra-domain comparisons**
    - filter for studies using similar methods on different domains
    - extract studies from the same domain and year and compare their methods
 
-🎓 **Pedagogical applications**
+4. **Pedagogical applications**
    - teach methodology through examples
    - build annotated reading lists for your coursework
    - find studies using a publicly accessible corpus to identify examples that students can reproduce
    - identify research using a custom corpus for a particular domain to showcase how researchers build e.g. corpora for health discourse
 	
-💭 **Methodological reflexivity**
+5. **Methodological reflexivity**
    - analyse which methods are overused or absent
    - have quantitative methods increased over time? If so, what does that mean for the field?
 	
-💻 **Interface with other tools**
+6. **Interface with other tools**
    - download the CSV file to filter in a spreadsheet tool
    - import the file using R or Python to conduct your own analyses
    - download the .bib file to import the references in a citation manager
