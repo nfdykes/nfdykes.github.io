@@ -27,10 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a corpus linguist with an interdisciplinary background spanning German and English linguistics, computational linguistics, and Scandinavian Studies. My research interests include discourse analysis, digital humanities, and linguistic annotation, with a particular focus on methodology.
-I’m especially interested in questions like:
-- How do linguistic patterns emerge across discourses and genres?
-- How can we make corpus research more reproducible, interpretable and transparent while maintaining the crucial role of subjective interpretation?
-- What can corpus methods offer in comparion to, and in conjunction with, machine learning?
+I'm a linguist interested in how we study meaning in large collections of text, and how the methods we choose shape what we find. I work with corpus and computational approaches to investigate patterns in discourse, argumentation, and narrative across genres in German and English.
 
-Currently based in a digital humanities group, I'm a research associate on the <a href='https://www.dhss.phil.fau.eu/research/current-projects/reading-concordances-in-the-21st-century-rc21/'>Reading concordances in the 21st century (RC21)</a> project, where we're developing a flexible and transparent approach to concordance analysis.
+My PhD dissertation, A Methodological Framework for Corpus-Based Discourse Analysis, develops best-practice recommendations for choosing and combining analytical strategies in corpus-based discourse research. Through case studies on three corpora in two languages, it investigates questions such as: what emerges when two researchers interpret the same collocates? What happens when we look for patterns at the level of semantic tags rather than words? How can we work with lexicogrammatical patterns on the syntagmatic level?
+This methodological focus has led me to work across a range of domains and collaborations:  from argumentation mining with theoretical computer scientists, to legal text anonymisation, health communication, conspiracy narratives, and corpus building. Currently, I'm a research associate in the Computing Text and Language group at FAU's Department of Digital Humanities and Social Studies, where my recent work has included the <a href='https://www.dhss.phil.fau.eu/research/current-projects/reading-concordances-in-the-21st-century-rc21/'>Reading concordances in the 21st century (RC21)</a> project. In RC21, I contribute to developing flexible approaches to concordance analysis and apply them in case studies on literary and parliamentary language.
+
