@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Nathan Dykes
-    - name: Date of Birth
-      value: 17th September 1991
     - name: Languages
       value: English, German, Swedish, basic Dutch, French & Spanish
 
@@ -12,31 +10,107 @@
   type: time_table
   contents:
     - title: "PhD: Computational Linguistics"
-      institution: Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
-      year: 2025 (expected)
-      description: A methodological framework for corpus-based discourse analysis
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+      year: Submitted 2025
+      description:
+        - "A methodological framework for corpus-based discourse analysis"
+        - "Supervisors: Stephanie Evert, Michaela Mahlberg"
     - title: "Master of Arts: Linguistics"
-      institution: Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2018
     - title: "Bachelor of Arts: Scandinavian Studies / Computational Linguistics"
-      institution: Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2015
-      
+
 - title: Experience
   type: time_table
   contents:
     - title: Research Associate
-      institution: Department Digital Humanities and Social Studies, Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
+      institution: Department Digital Humanities and Social Studies, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2024-present
+      description:
+        - "PI: Michaela Mahlberg"
     - title: Research Associate
-      institution: Chair of Computational Corpus Linguistics, Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
-      year: 2018-2024
+      institution: Chair of Computational Corpus Linguistics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+      year: 2018-present
+      description:
+        - "PI: Stephanie Evert"
     - title: Research Associate
-      institution: Chair of English Linguistics, Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
+      institution: Chair of English Linguistics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2022-2023
+      description:
+        - "PI: Peter Uhrig"
     - title: "Contract lecturer: Corpus Linguistics"
-      institution: Georg-August-Universiät Göttingen, Germany.
+      institution: Georg-August-Universität Göttingen, Germany
       year: 2022
     - title: "Contract lecturer: Swedish language"
-      institution: Language Centre, Friedrich-Alexander-Universiät Erlangen-Nürnberg, Germany
+      institution: Language Centre, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2016-2020
+
+- title: Co-organised Events
+  type: time_table
+  contents:
+    - title: "Summer school: Data, Gender and Society"
+      institution: FAU Erlangen-Nürnberg
+      year: 2025
+      description:
+        - "Week-long summer school with 30 participants. Responsible for communication with invited guests and participants; taught two workshop sessions."
+    - title: "Mini-conference: The Times They Are A-Changin'"
+      institution: International Conference of Digital Humanities, Lisbon
+      year: 2025
+      description:
+        - "Contributed to peer review, session chairing and on-site coordination."
+    - title: "Project symposium: Reading Concordances in the 21st Century"
+      institution: FAU Erlangen-Nürnberg
+      year: 2025
+      description:
+        - "80 participants, 10 invited speakers. Responsible for planning, coordination and pre- and post-event communication with speakers and participants."
+    - title: "Digital Humanities Training Day"
+      institution: FAU Erlangen-Nürnberg
+      year: 2024
+      description:
+        - "General planning and co-teaching one session."
+    - title: "Workshop on Text Mining and Generation"
+      institution: Co-located with the KI conference, Trier (online)
+      year: 2022
+      description:
+        - "General planning and peer review."
+    - title: "KONVENS 2019"
+      institution: FAU Erlangen-Nürnberg
+      year: 2019
+      description:
+        - "General planning, recruiting student assistants, coordinating the review process."
+
+- title: Academic Service
+  type: time_table
+  contents:
+    - title: Elected member of the department board
+      institution: Department Digital Humanities and Social Studies, FAU Erlangen-Nürnberg
+      year: 2025-present
+      description:
+        - "Representative of non-professorial academic staff and PhD candidates. Also entails membership in the faculty-level academic staff council."
+    - title: "Peer reviewer: Pragmatics and Society"
+      year: 2025
+    - title: "Peer reviewer: International Journal of Corpus Linguistics"
+      year: 2024
+    - title: "Secondary examiner for MA theses in linguistics"
+      institution: FAU Erlangen-Nürnberg
+      year: 2022, 2025
+    - title: DHd early career mentoring programme
+      year: 2025-present
+      description:
+        - "Mentor: Nils Reiter (University of Cologne)"
+
+- title: Software and Resources
+  type: time_table
+  contents:
+    - title: FlexiConc
+      year: 2025
+      description:
+        - "Python library for flexible concordance analysis workflows. Contributed to conceptual development through application in various research contexts"
+        - '<a href="https://pypi.org/project/FlexiConc/">pypi.org/project/FlexiConc</a>'
+    - title: CADSBib
+      year: 2025
+      description:
+        - "Annotated bibliography of ca. 500 publications in corpus-assisted discourse studies."
+        - '<a href="https://doi.org/10.17605/OSF.IO/HWZMN">doi.org/10.17605/OSF.IO/HWZMN</a>'
