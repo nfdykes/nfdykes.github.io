@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I submitted my PhD dissertation, a Methodological Framework for Corpus-Based Discourse Analysis, in summer. When exactly? It depends... More on that soon. Anyway, I just sent off a book proposal and am really looking forward to what's next.
+I submitted my PhD dissertation, a Methodological Framework for Corpus-Based Discourse Analysis, in summer. When exactly? (It depends...)[https://nfdykes.github.io/blog/2025/i-printed-my-thesis-twice/]. Anyway, I just sent off a book proposal and am really looking forward to what's next.
