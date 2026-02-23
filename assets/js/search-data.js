@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-cadsbib-an-annotated-bibliography-for-corpus-and-discourse-research",
+            },{id: "post-i-printed-my-thesis-twice",
+        
+          title: "I printed my thesis twice",
+        
+        description: "On submitting a PhD in Germany, or, why you should read the Promotionsordnung more carefully than I did.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/i-printed-my-thesis-twice/";
+          
+        },
+      },{id: "post-cadsbib-an-annotated-bibliography-for-corpus-and-discourse-research",
         
           title: "CADSbib. An annotated bibliography for corpus and discourse research",
         
