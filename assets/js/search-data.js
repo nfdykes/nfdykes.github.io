@@ -91,17 +91,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/post2/";
           
         },
-      },{id: "post-test-post",
-        
-          title: "test post",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/post/";
-          
-        },
       },{id: "news-i-had-a-great-time-presenting-and-discussing-my-research-at-reproducibilitea-in-the-humaniteas-in-cologne-slides-from-my-talk-beyond-the-gold-standard-transparency-in-qualitative-corpus-analysis-on-osf",
           title: 'I had a great time presenting and discussing my research at ReproducibiliTea in...',
           description: "",
@@ -111,13 +100,13 @@ ninja.data = [{
           section: "News",},{id: "news-between-june-and-july-the-rc21-team-gave-four-talks-and-a-workshop-on-applying-our-flexiconc-tool-to-literary-stylistics-you-can-find-details-on-some-of-them-on-the-project-page",
           title: 'Between June and July, the RC21 team gave four talks and a workshop...',
           description: "",
-          section: "News",},{id: "news-our-department-page-now-has-a-post-on-the-mini-conference-https-www-dhss-phil-fau-eu-2025-07-29-heres-what-happened-at-dh-2025-in-lisbon-we-organised-at-dh2025-in-lisbon-the-times-they-are-a-changing-besides-chairing-sessions-and-participating-in-the-pre-conference-and-on-site-planning-i-presented-some-research-on-behalf-of-the-rc21-team-where-we-used-flexiconc-to-identify-temporal-trends-in-water-discourse-in-german-bundestag-debates-there-will-be-more-on-this-soon-watch-this-space",
-          title: 'Our department page now has a post on the (mini conference)[https://www.dhss.phil.fau.eu/2025/07/29/heres-what-happened-at-dh-2025-in-lisbon/] we organised...',
+          section: "News",},{id: "news-our-department-page-now-has-a-post-on-the-mini-conference-we-organised-at-dh2025-in-lisbon-the-times-they-are-a-changing-besides-chairing-sessions-and-participating-in-the-pre-conference-and-on-site-planning-i-presented-some-research-on-behalf-of-the-rc21-team-where-we-used-flexiconc-to-identify-temporal-trends-in-water-discourse-in-german-bundestag-debates-there-will-be-more-on-this-soon-watch-this-space",
+          title: 'Our department page now has a post on the mini conference we organised...',
           description: "",
-          section: "News",},{id: "news-our-summer-school-data-gender-and-society-took-place-from-september-22-26-2025-i-am-writing-up-a-blog-post-on-my-own-sessions-in-the-meantime-you-can-find-an-event-description-photos-and-a-video-on-the-department-page-https-www-dhss-phil-fau-eu-2025-10-01-summer-school-catalogue",
+          section: "News",},{id: "news-our-summer-school-data-gender-and-society-took-place-from-september-22-26-2025-i-am-writing-up-a-blog-post-on-my-own-sessions-in-the-meantime-you-can-find-an-event-description-photos-and-a-video-on-the-department-page",
           title: 'Our summer school Data, Gender and Society took place from September 22-26, 2025....',
           description: "",
-          section: "News",},{id: "news-i-submitted-my-phd-dissertation-a-methodological-framework-for-corpus-based-discourse-analysis-in-summer-when-exactly-it-depends-more-on-that-soon-anyway-i-just-sent-off-a-book-proposal-and-am-really-looking-forward-to-what-s-next",
+          section: "News",},{id: "news-i-submitted-my-phd-dissertation-a-methodological-framework-for-corpus-based-discourse-analysis-in-summer-when-exactly-it-depends-anyway-i-just-sent-off-a-book-proposal-and-am-really-looking-forward-to-what-s-next",
           title: 'I submitted my PhD dissertation, a Methodological Framework for Corpus-Based Discourse Analysis, in...',
           description: "",
           section: "News",},{
