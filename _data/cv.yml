@@ -81,7 +81,7 @@
       description:
         - "General planning, recruiting student assistants, coordinating the review process."
 
-- title: Academic Service
+- title: Academic Service & Professional Development
   type: time_table
   contents:
     - title: Elected member of the department board
@@ -96,10 +96,8 @@
     - title: "Secondary examiner for MA theses in linguistics"
       institution: FAU Erlangen-Nürnberg
       year: 2022, 2025
-    - title: DHd early career mentoring programme
+    - title: "Mentee: DHd early career mentoring programme"
       year: 2025-present
-      description:
-        - "Mentor: Nils Reiter (University of Cologne)"
 
 - title: Software and Resources
   type: time_table
