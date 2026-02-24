@@ -14,12 +14,8 @@ Invited talks are marked with ★. For co-organised events, see [cv](/cv/).
 - ★ **Corpus Queries in Discourse Studies.** Seminar *Research Topics in Digital Linguistics*, Technical University of Darmstadt. [slides](https://osf.io/3gxtd)
 - ★ **Beyond the Gold Standard: Transparency in Qualitative Corpus Analysis.** Series *ReproducibiliTea in the HumaniTeas*, University of Cologne. [slides](https://osf.io/zhvtd)
 - **Reading Concordances at Scale. Body Parts in English and German 19th-Century Fiction.** With S. Evert, M. Mahlberg & A. Piperski. Corpus Linguistics 2025, Birmingham.
-- **Word Embeddings for Discourse Studies.** Half-day workshop with T. Feldmüller. Corpus Linguistics 2025, Birmingham.
-- **Reading Concordances with Algorithms.** With S. Evert, M. Mahlberg & A. Piperski. Half-day workshop at Corpus Linguistics 2025, Birmingham.
 - **Digital Hermeneutics: Reading Concordances with Algorithms.** With S. Evert & A. Piperski. Workshop *Corpus Linguistics 2040: Which Data, Which Methods, Which Models?*, Mannheim.
-- **Exploring Gender in 19th-Century Fiction with Concordance Analysis.** Two workshop sessions at the summer school *Data, Gender and Society*, FAU Erlangen-Nürnberg.
 - **Patterns of Narrative Fiction in English and German.** With M. Mahlberg. Project symposium *Reading Concordances in the 21st Century*, FAU Erlangen-Nürnberg.
-- **Hands-on Session with FlexiConc.** Workshop with A. Piperski. Project symposium *Reading Concordances in the 21st Century*, FAU Erlangen-Nürnberg.
 - **A Flexible Approach to KWIC: Grouping Concordances.** With S. Evert, M. Mahlberg & A. Piperski. ICAME, Vilnius.
 
 ## 2024
