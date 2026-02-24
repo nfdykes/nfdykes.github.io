@@ -69,6 +69,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/i-printed-my-thesis-twice/";
           
         },
+      },{id: "post-concordances-on-paper",
+        
+          title: "Concordances on paper",
+        
+        description: "Teaching concordance analysis to non-linguists at the Data, Gender and Society summer school.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/concordances-on-paper/";
+          
+        },
       },{id: "post-cadsbib-an-annotated-bibliography-for-corpus-and-discourse-research",
         
           title: "CADSbib. An annotated bibliography for corpus and discourse research",
@@ -78,17 +89,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/cads-survey/";
-          
-        },
-      },{id: "post-test-post2",
-        
-          title: "test post2",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/post2/";
           
         },
       },{id: "news-i-had-a-great-time-presenting-and-discussing-my-research-at-reproducibilitea-in-the-humaniteas-in-cologne-slides-from-my-talk-beyond-the-gold-standard-transparency-in-qualitative-corpus-analysis-on-osf",
