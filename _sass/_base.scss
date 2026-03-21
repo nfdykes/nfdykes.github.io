@@ -1417,3 +1417,63 @@ figure.cover {
     color: #23212d !important;
   }
 }
+// About page: header band + sandstone profile area
+
+.about-header-band {
+  background-color: var(--global-theme-color);
+  margin: -1px calc(-1 * (50vw - 50%)) 0;
+  padding: 2rem calc(50vw - 50%);
+
+  .post-header {
+    margin-bottom: 0;
+  }
+
+  .post-title {
+    color: #fff;
+
+    .font-weight-bold {
+      color: rgba(255, 255, 255, 0.7);
+    }
+  }
+
+  .desc,
+  .desc a {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .desc a:hover {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: underline;
+  }
+}
+
+.about-profile-area {
+  background-color: #f2ece4;
+  margin: 0 calc(-1 * (50vw - 50%));
+  padding: 2rem calc(50vw - 50%) 1.5rem;
+  margin-bottom: 1.5rem;
+
+  p, div, span, li, strong, em {
+    color: var(--global-text-color);
+  }
+
+  .profile .more-info {
+    font-family: inherit;
+    font-size: 0.85rem;
+
+    p {
+      color: var(--global-text-color-light);
+    }
+  }
+}
+
+// Dark mode adjustments
+html[data-theme="dark"] {
+  .about-header-band {
+    background-color: var(--global-theme-color);
+  }
+
+  .about-profile-area {
+    background-color: #2e2a25;
+  }
+}
