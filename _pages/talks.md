@@ -9,6 +9,14 @@ nav_order: 4
 
 Invited talks are marked with ★. For co-organised events, see [cv](/cv/).
 
+## Forthcoming
+
+
+- *Body, movement and sensation in fanfiction on Jane Austen* with 
+A. Glawion and M. Mahlberg. *Corpora and Discourse International Conference*, Lancaster.
+ 
+- *A Multivariate Analysis of Quotation in German Parliamentary Debates*. *Corpora and Discourse International Conference*, Lancaster.
+
 ## 2025
 
 - ★ **Corpus Queries in Discourse Studies.** Seminar *Research Topics in Digital Linguistics*, Technical University of Darmstadt. [slides](https://osf.io/3gxtd)
