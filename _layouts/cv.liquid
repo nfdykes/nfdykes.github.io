@@ -3,6 +3,8 @@ layout: default
 ---
 {% unless site.data.resume %}
   <div class="post">
+    <div class="about-header-band">
+
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
@@ -25,6 +27,7 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
+	</div>
 
     <article>
       <div class="cv">
@@ -54,6 +57,8 @@ layout: default
   </div>
 {% else %}
   <div class="post">
+    <div class="about-header-band">
+
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
@@ -76,7 +81,7 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
-
+</div>
     <article>
       <div class="cv">
         {% for data in site.data.resume %}
