@@ -1436,19 +1436,22 @@ figure.cover {
     }
   }
 
-  .desc,
-  .desc a {
+  .desc {
     color: rgba(255, 255, 255, 0.6);
-  }
 
-  .desc a:hover {
-    color: rgba(255, 255, 255, 0.85);
-    text-decoration: underline;
+    a {
+      color: rgba(255, 255, 255, 0.6);
+
+      &:hover {
+        color: rgba(255, 255, 255, 0.85);
+        text-decoration: underline;
+      }
+    }
   }
 }
 
 .about-profile-area {
-  background-color: #f2ece4;
+  background-color: #f7e8da;
   margin: 0 calc(-1 * (50vw - 50%));
   padding: 2rem calc(50vw - 50%) 1.5rem;
   margin-bottom: 1.5rem;
