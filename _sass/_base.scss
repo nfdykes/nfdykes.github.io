@@ -1437,18 +1437,18 @@ figure.cover {
   }
 
   .desc {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.6) !important;
 
-    a {
-      color: rgba(255, 255, 255, 0.6);
+    a,
+    a:visited {
+      color: rgba(255, 255, 255, 0.6) !important;
 
       &:hover {
-        color: rgba(255, 255, 255, 0.85);
+        color: rgba(255, 255, 255, 0.85) !important;
         text-decoration: underline;
       }
     }
   }
-}
 
 .about-profile-area {
   background-color: #f7e8da;
