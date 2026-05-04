@@ -25,6 +25,8 @@ nav_order: 6
 - **Introduction to Academic Skills and Standards in DH** (seminar for BA and MA students, 2024/25)
 
 ## Workshops and and summer schools
+- **Was können Algorithmen zur Diskursanalyse beitragen? Flexible und transparente Tools für computergestützte Korpusanalysen** With Philipp Heinrich. GAL Research School 
+*Methoden und Impulse der Divsersitäts- und Inklusionslinguistik* 2026, Bayreuth.
 - **Exploring Gender in 19th-Century Fiction with Concordance Analysis.** Two workshop sessions at the summer school *Data, Gender and Society*, FAU Erlangen-Nürnberg.
 - **Word Embeddings for Discourse Studies.** Half-day workshop with Tim Feldmüller. Corpus Linguistics 2025, Birmingham.
 - **Reading Concordances with Algorithms.** With Stephanie Evert, Michaela Mahlberg & Alexander Piperski. Half-day workshop at Corpus Linguistics 2025, Birmingham.

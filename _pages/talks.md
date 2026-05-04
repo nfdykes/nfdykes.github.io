@@ -11,6 +11,10 @@ Invited talks are marked with ★. For co-organised events, see [cv](/cv/).
 
 ## Forthcoming
 
+- ★ *Gegenöffentlichkeit oder Interaktion? Visuelle Triangulation analytischer Positionen in der korpusbasierten Diskursanalyse am
+* Beispiel von verschwörungsnahen Inhalten auf Telegram*. GAL Research School *Methoden und Impulse der Diversitäts- und Inklusionslinguistik*, Bayreuth.
+
+- ★ *Corpus approaches to operationalising elusive discourse phenomena*. University of Turku.
 
 - *Body, movement and sensation in fanfiction on Jane Austen* with 
 A. Glawion and M. Mahlberg. *Corpora and Discourse International Conference*, Lancaster.
