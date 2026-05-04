@@ -104,6 +104,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-just-published-a-handout-for-using-our-flexiconc-tool-in-clic-which-explains-all-the-ways-that-flexiconc-makes-concordance-analysis-flexible-and-transparent-find-the-pdf-on-github",
           title: 'We just published a handout for using our FlexiConc tool in CLiC, which...',
           description: "",
+          section: "News",},{id: "news-i-will-be-at-the-gal-research-school-impulse-und-methoden-der-diversitäts-und-inklusionslinguistik-taking-place-in-bayreuth-germany-from-may-7-9-i-am-very-much-looking-forward-to-the-event-as-well-as-my-talk-and-workshop-contributions-presentation-gegenöffentlichkeit-oder-interaktion-visuelle-triangulation-analytischer-positionen-in-der-korpusbasierten-diskursanalyse-am-beispiel-von-verschwörungsnahen-inhalten-auf-telegram-methods-workshop-nathan-dykes-amp-amp-philipp-heinrich-was-können-algorithmen-zur-diskursanalyse-beitragen-flexible-und-transparente-tools-für-computergestützte-korpusanalysen",
+          title: 'I will be at the GAL research school Impulse und Methoden der Diversitäts-...',
+          description: "",
+          section: "News",},{id: "news-i-m-much-looking-forward-to-visiting-colleagues-at-turkunlp-university-of-turku-for-a-few-days-which-will-include-a-brief-talk-on-my-end-corpus-approaches-to-operationalising-elusive-discourse-phenomena",
+          title: 'I’m much looking forward to visiting colleagues at TurkuNLP, University of Turku for...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
