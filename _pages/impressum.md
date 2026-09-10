@@ -11,15 +11,13 @@ Angaben gemäß § 5 TMG:
 
 Nathan Dykes 
 
-Department Digital Humanities and Social Studies
+University of Turku
 
-Friedrich-Alexander-Universität Erlangen-Nürnberg
+Arcanuminkuja 1
 
-Nürnberger Str. 74
+20500 Turku, Finnland
 
-91052 Erlangen, Deutschland
-
-E-Mail: nathan.dykes@fau.de
+E-Mail: nathan.dykes@utu.fi
 
 Hosting: Diese Website wird über GitHub Pages (GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA) bereitgestellt.
 
@@ -73,9 +71,9 @@ möglich.
 Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Nathan Dykes
-Nürnberger Str. 74
-91052 Erlangen
-E-Mail: nathan.dykes@fau.de
+Arcanuminkuja 1
+20500 Turku, Finnland
+E-Mail: nathan.dykes@utu.fi
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
 die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
 entscheidet.

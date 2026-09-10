@@ -21,6 +21,11 @@ My research spans corpus methodology, discourse analysis, and their application 
 <div class="tab-content publications" id="pubTabContent">
   <div class="tab-pane fade show active" id="theme" role="tabpanel">
 
+<h2>Book and dissertation</h2>
+{% bibliography --query @*[keywords=book-dissertation] %}
+
+<p>A revised version is under contract with Bloomsbury Academic in the <em>Corpus and Discourse</em> series, under the title <em>Traceable Interpretation through Linguistic Description: Lexis, Semantics and Lexicogrammar</em>.</p>
+
 <h2>Discourse, methodology and meaning</h2>
 {% bibliography --query @*[keywords=discourse-methodology-meaning] %}
 

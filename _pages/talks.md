@@ -9,17 +9,12 @@ nav_order: 4
 
 Invited talks are marked with ★. For co-organised events, see [cv](/cv/).
 
-## Forthcoming
+## 2026
 
-- ★ *Gegenöffentlichkeit oder Interaktion? Visuelle Triangulation analytischer Positionen in der korpusbasierten Diskursanalyse am
-* Beispiel von verschwörungsnahen Inhalten auf Telegram*. GAL Research School *Methoden und Impulse der Diversitäts- und Inklusionslinguistik*, Bayreuth.
-
-- ★ *Corpus approaches to operationalising elusive discourse phenomena*. University of Turku.
-
-- *Body, movement and sensation in fanfiction on Jane Austen* with 
-A. Glawion and M. Mahlberg. *Corpora and Discourse International Conference*, Lancaster.
- 
-- *A Multivariate Analysis of Quotation in German Parliamentary Debates*. *Corpora and Discourse International Conference*, Lancaster.
+- ★ **Corpus Approaches to Operationalising Elusive Discourse Phenomena.** University of Turku.
+- ★ **Gegenöffentlichkeit oder Interaktion? Visuelle Triangulation analytischer Positionen in der korpusbasierten Diskursanalyse am Beispiel von verschwörungsnahen Inhalten auf Telegram.** GAL Research School *Methoden und Impulse der Diversitäts- und Inklusionslinguistik*, Bayreuth.
+- **Body, Movement and Sensation in Fanfiction on Jane Austen.** With A. Glawion & M. Mahlberg. Corpora and Discourse International Conference, Lancaster.
+- **A Multivariate Analysis of Quotation in German Parliamentary Debates.** Corpora and Discourse International Conference, Lancaster.
 
 ## 2025
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://dhss.phil.fau.eu/'>Digital Humanities and Social Studies</a>, Friedrich-Alexander-Universität Erlangen-Nürnberg.
+subtitle: <a href='https://www.utu.fi/en'>University of Turku</a>.
 
 profile:
   align: right
@@ -26,6 +26,6 @@ latest_posts:
 ---
 
 
-I am a linguist working in the <a href='https://bsky.app/profile/textandlanguagelab.bsky.social'>Computing Text and Language group</a> at the <a href='https://www.dhss.phil.fau.eu/'>Department of Digital Humanities and Social Studies, FAU Erlangen-Nürnberg</a>. My research centres on corpus methodology with a strong interdisciplinary profile spanning computational linguistics and digital humanities. I focus on developing creative ways to retrieve linguistic phenomena that resist straightforward operationalisation. In other words: what patterns are hiding in corpora, and how can we find them reliably, transparently, and interpretably?
+I am a linguist working at the <a href='https://www.utu.fi/en'>University of Turku</a>. My research centres on corpus methodology with a strong interdisciplinary profile spanning computational linguistics and digital humanities. I focus on developing creative ways to retrieve linguistic phenomena that resist straightforward operationalisation. In other words: what patterns are hiding in corpora, and how can we find them reliably, transparently, and interpretably?
 
-My PhD develops a methodological framework for corpus-based discourse analysis. Beyond discourse, my research has taken me into argumentation mining (with computer scientists), medical and legal language (with domain experts), and corpus construction and annotation work for social media and web data. More recently, I've been working on concordance-based approaches to literary stylistics in the <a href='https://www.dhss.phil.fau.eu/research/current-projects/reading-concordances-in-the-21st-century-rc21/'>Reading concordances in the 21st century (RC21)</a> project, and my current interests are expanding towards pragmatics. I bring a background in computational linguistics and have programming experience in Python and R.
+My doctoral thesis, <a href='https://doi.org/10.25593/open-fau-3360'><em>A Methodological Framework for Corpus-Based Discourse Analysis</em></a> (2026), is available in full open access. A revised version is under contract with Bloomsbury Academic in the <em>Corpus and Discourse</em> series, under the title <em>Traceable Interpretation through Linguistic Description: Lexis, Semantics and Lexicogrammar</em>. Beyond discourse, my research has taken me into argumentation mining (with computer scientists), medical and legal language (with domain experts), and corpus construction and annotation work for social media and web data. I have also worked on concordance-based approaches to literary stylistics in the <a href='https://www.dhss.phil.fau.eu/research/current-projects/reading-concordances-in-the-21st-century-rc21/'>Reading concordances in the 21st century (RC21)</a> project, and my current interests are expanding towards pragmatics. I bring a background in computational linguistics and have programming experience in Python and R.

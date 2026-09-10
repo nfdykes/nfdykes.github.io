@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Nathan Dykes
+      value: Dr. Nathan Dykes
     - name: Languages
       value: English, German, Swedish, basic Dutch, French & Spanish
 
@@ -11,10 +11,11 @@
   contents:
     - title: "PhD: Computational Linguistics"
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-      year: Submitted 2025
+      year: 2026
       description:
-        - "A methodological framework for corpus-based discourse analysis"
+        - "A Methodological Framework for Corpus-Based Discourse Analysis"
         - "Supervisors: Stephanie Evert, Michaela Mahlberg"
+        - '<a href="https://doi.org/10.25593/open-fau-3360">doi.org/10.25593/open-fau-3360</a>'
     - title: "Master of Arts: Linguistics"
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2018
@@ -25,14 +26,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of Turku, Finland
+      year: 2026-present
     - title: Research Associate
       institution: Department Digital Humanities and Social Studies, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-      year: 2024-present
+      year: 2024-2026
       description:
         - "PI: Michaela Mahlberg"
     - title: Research Associate
       institution: Chair of Computational Corpus Linguistics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-      year: 2018-present
+      year: 2018-2026
       description:
         - "PI: Stephanie Evert"
     - title: Research Associate
@@ -86,7 +90,7 @@
   contents:
     - title: Elected member of the department board
       institution: Department Digital Humanities and Social Studies, FAU Erlangen-Nürnberg
-      year: 2025-present
+      year: 2025-2026
       description:
         - "Representative of non-professorial academic staff and PhD candidates. Also entails membership in the faculty-level academic staff council."
     - title: "Peer reviewer: Pragmatics and Society"
