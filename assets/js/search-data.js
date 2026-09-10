@@ -107,6 +107,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-at-the-gal-research-school-impulse-und-methoden-der-diversitäts-und-inklusionslinguistik-taking-place-in-bayreuth-germany-from-may-7-9-i-am-very-much-looking-forward-to-the-event-as-well-as-my-talk-and-workshop-contributions-presentation-gegenöffentlichkeit-oder-interaktion-visuelle-triangulation-analytischer-positionen-in-der-korpusbasierten-diskursanalyse-am-beispiel-von-verschwörungsnahen-inhalten-auf-telegram-methods-workshop-nathan-dykes-amp-amp-philipp-heinrich-was-können-algorithmen-zur-diskursanalyse-beitragen-flexible-und-transparente-tools-für-computergestützte-korpusanalysen",
           title: 'I will be at the GAL research school Impulse und Methoden der Diversitäts-...',
           description: "",
+          section: "News",},{id: "news-it-s-done-my-dissertation-a-methodological-framework-for-corpus-based-discourse-analysis-is-published-and-freely-available-in-open-access-at-doi-org-10-25593-open-fau-3360-a-revised-version-is-under-contract-with-bloomsbury-academic-in-the-corpus-and-discourse-series-as-traceable-interpretation-through-linguistic-description-lexis-semantics-and-lexicogrammar-more-on-that-as-it-takes-shape",
+          title: 'It’s done: my dissertation A Methodological Framework for Corpus-Based Discourse Analysis is published...',
+          description: "",
+          section: "News",},{id: "news-new-chapter-as-of-september-2026-i-am-a-postdoctoral-researcher-at-the-university-of-turku-after-eight-years-at-fau-erlangen-nürnberg-i-am-very-much-looking-forward-to-the-move-north-and-to-what-corpus-based-discourse-analysis-can-do-in-a-new-research-environment-you-can-now-reach-me-at-nathan-dykes-utu-fi",
+          title: 'New chapter: as of September 2026 I am a postdoctoral researcher at the...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
@@ -119,7 +125,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6E%61%74%68%61%6E.%64%79%6B%65%73@%66%61%75.%64%65", "_blank");
+          window.open("mailto:%6E%61%74%68%61%6E.%64%79%6B%65%73@%75%74%75.%66%69", "_blank");
         },
       },{
         id: 'social-github',
@@ -141,6 +147,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://osf.io/6qu9b/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=9KfiiyQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
